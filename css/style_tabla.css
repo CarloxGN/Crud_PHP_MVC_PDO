@@ -1,0 +1,44 @@
+.tabla{
+	margin:0;
+	padding:0;
+	background:#f1f1f1;
+	font:12px Arial, Helvetica, sans-serif;
+	color:#555;
+	line-height:150%;
+	text-align:left;
+}
+.tabla a{
+	text-decoration:none;
+	color:#057fac;
+}
+.tabla a:hover{
+	text-decoration:none;
+	color:#999;
+}
+.tabla h1{
+	font-size:140%;
+	margin:0 20px;
+	line-height:80px;
+}
+.tabla h2{
+	font-size:120%;
+}
+.tabla #container{
+	margin:0 auto;
+	width:680px;
+	background:#fff;
+	padding-bottom:20px;
+}
+
+.tabla #content{margin:0 20px;}
+.tabla p.sig{
+	margin:0 auto;
+	width:680px;
+	padding:1em 0;
+}
+
+.tabla form{
+	margin:1em 0;
+	padding:.2em 20px;
+	background:#eee;
+}
